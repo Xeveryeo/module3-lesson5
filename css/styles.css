@@ -1,0 +1,23 @@
+h1 {
+    border: 10px solid black;
+    margin: 20px;
+    padding: 10px;
+}
+
+.box { 
+    border: 5px solid red;
+    box-sizing: border-box;
+    width: 200px;
+    
+}
+
+.food {
+    margin-bottom: 50px;
+}
+
+.link {
+    background-color: peachpuff;
+    color: black;
+    margin-left: 50px;
+    margin-top: 20px;
+}
